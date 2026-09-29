@@ -1,0 +1,6 @@
+{
+  "name": "CONEXX — O Ecossistema de Oportunidades",
+  "description": "Plataforma digital onde oportunidades se encontram: networking, negócios, eventos, vagas, comunidades e experiências.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
